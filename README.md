@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Ogryzek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogryzek)](https://github.com/ogryzek/github-readme-stats)
 
 
 ## 🌠[Coding Time](https://github.com/ogryzek)
